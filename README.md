@@ -41,6 +41,7 @@ Para abrir e rodar o projeto, execute `npm install` para instalar as dependênci
 Como este projeto precisa de um backend para funcionar, neste link (https://github.com/alura-cursos/api-bytebank-v2/archive/refs/heads/main.zip) você pode baixar nossa api que rodará localmente e exercerá essa função. Após baixá-la, descompacte os arquivos em uma pasta de sua preferência. Depois abra essa pasta em um terminal no seu computador e escreva o comando:
 
 npm install
+
 npm run dev
 
 E após ler a mensagem de que a API está rodando na porta http://localhost:8000/, o setup inicial já está pronto!
